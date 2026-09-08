@@ -1,3 +1,5 @@
+> **Note:** This is a fork of [heartcombo/devise](https://github.com/heartcombo/devise), maintained by Recurly and used as a git source dependency in Engage. It carries a small patch on top of upstream, based on the unmerged [heartcombo/devise#5474](https://github.com/heartcombo/devise/pull/5474). For general use, prefer the upstream gem.
+
 ![Devise Logo](https://raw.github.com/heartcombo/devise/main/devise.png)
 
 Devise is a flexible authentication solution for Rails based on Warden. It:
